@@ -1,12 +1,27 @@
-<svg width="900" height="6" viewBox="0 0 900 6" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Decorative section divider">
+<svg width="900" height="8" viewBox="0 0 900 8" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title-div-light desc-div-light">
+  <title id="title-div-light">Section divider</title>
+  <desc id="desc-div-light">Thin animated light-mode circuit-line divider with a slow flowing gradient and a traveling accent particle, matching the hero banner's data-line motif.</desc>
+
   <defs>
     <linearGradient id="divGradLight" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#f6f8fa"/>
-      <stop offset="45%" stop-color="#1477E6"/>
-      <stop offset="55%" stop-color="#1477E6"/>
-      <stop offset="100%" stop-color="#f6f8fa"/>
-      <animateTransform attributeName="gradientTransform" type="translate" values="-300 0;300 0;-300 0" dur="8s" repeatCount="indefinite"/>
+      <stop offset="0%" stop-color="#f6f8fa" stop-opacity="0"/>
+      <stop offset="45%" stop-color="#1477E6" stop-opacity="0.9"/>
+      <stop offset="55%" stop-color="#1477E6" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#f6f8fa" stop-opacity="0"/>
+      <animateTransform attributeName="gradientTransform" type="translate" values="-300 0;900 0;-300 0" dur="8s" repeatCount="indefinite"/>
     </linearGradient>
+    <radialGradient id="divDotGlowLight" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#1477E6" stop-opacity="0.95"/>
+      <stop offset="100%" stop-color="#1477E6" stop-opacity="0"/>
+    </radialGradient>
   </defs>
-  <rect width="900" height="6" fill="url(#divGradLight)"/>
+
+  <!-- transparent background: only the line itself is drawn -->
+  <line x1="0" y1="4" x2="900" y2="4" stroke="#e4e8ec" stroke-width="1"/>
+  <rect x="0" y="2.5" width="900" height="3" fill="url(#divGradLight)"/>
+
+  <!-- traveling accent particle, echoes the hero banner's flowing data-line -->
+  <circle r="2.5" fill="url(#divDotGlowLight)">
+    <animateMotion path="M0,4 L900,4" dur="6s" repeatCount="indefinite"/>
+  </circle>
 </svg>

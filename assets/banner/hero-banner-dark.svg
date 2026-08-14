@@ -1,37 +1,55 @@
-<svg width="900" height="220" viewBox="0 0 900 220" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title-dark desc-dark">
-  <title id="title-dark">Md Shahriar Fahim — Full Stack Developer, CSE Student, AI Enthusiast</title>
-  <desc id="desc-dark">Animated dark-mode hero banner with a slow gradient accent line and a blinking terminal-style cursor.</desc>
+<svg width="900" height="240" viewBox="0 0 900 240" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title-dark desc-dark">
+  <title id="title-dark">Md Shahriar Fahim — Full Stack Developer, CSE Student, AI Enthusiast, AI Prompt Engineering</title>
+  <desc id="desc-dark">Premium dark-mode animated hero banner with a subtle circuit-grid background, bracket accents, a slow accent-line draw-in, a moving data-line particle, and a blinking terminal cursor.</desc>
 
   <defs>
+    <pattern id="gridDark" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#161b22" stroke-width="1"/>
+    </pattern>
     <linearGradient id="accentDark" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" stop-color="#2F9BFF" stop-opacity="0.15"/>
       <stop offset="50%" stop-color="#2F9BFF" stop-opacity="1"/>
-      <stop offset="100%" stop-color="#2F9BFF" stop-opacity="0.15">
-        <animate attributeName="offset" values="1;1.6;1" dur="6s" repeatCount="indefinite"/>
-      </stop>
+      <stop offset="100%" stop-color="#2F9BFF" stop-opacity="0.15"/>
     </linearGradient>
+    <radialGradient id="dotGlowDark" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#2F9BFF" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#2F9BFF" stop-opacity="0"/>
+    </radialGradient>
   </defs>
 
-  <rect width="900" height="220" fill="#0d1117"/>
+  <!-- base + circuit-grid backdrop (static, zero animation cost) -->
+  <rect width="900" height="240" fill="#0d1117"/>
+  <rect width="900" height="240" fill="url(#gridDark)"/>
 
-  <!-- accent line: single slow draw-in, no repeated flashing -->
-  <rect x="60" y="60" width="0" height="3" fill="url(#accentDark)" rx="1.5">
+  <!-- circuit intersection dots (static) -->
+  <circle cx="80" cy="40" r="2" fill="#2F9BFF" opacity="0.35"/>
+  <circle cx="820" cy="40" r="2" fill="#2F9BFF" opacity="0.35"/>
+  <circle cx="80" cy="200" r="2" fill="#2F9BFF" opacity="0.35"/>
+  <circle cx="820" cy="200" r="2" fill="#2F9BFF" opacity="0.35"/>
+
+  <!-- bracket accents, decorative, low opacity so text stays fully readable -->
+  <text x="6" y="172" font-family="'Fira Code', monospace" font-size="120" font-weight="700" fill="#2F9BFF" opacity="0.07">&lt;</text>
+  <text x="778" y="172" font-family="'Fira Code', monospace" font-size="120" font-weight="700" fill="#2F9BFF" opacity="0.07">&gt;</text>
+
+  <!-- accent line: single slow draw-in, plays once, no repeat -->
+  <rect x="60" y="70" width="0" height="3" fill="url(#accentDark)" rx="1.5">
     <animate attributeName="width" from="0" to="120" dur="1.2s" begin="0.2s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1"/>
   </rect>
 
-  <text x="60" y="115" font-family="'Segoe UI', 'Fira Code', monospace" font-size="38" font-weight="700" fill="#ffffff">
-    Md Shahriar Fahim
-  </text>
+  <text x="60" y="105" font-family="'Segoe UI', 'Fira Code', monospace" font-size="34" font-weight="700" fill="#ffffff">Md Shahriar Fahim</text>
 
-  <text x="60" y="150" font-family="'Segoe UI', monospace" font-size="18" fill="#8b949e">
-    Full Stack Developer&#160;&#160;·&#160;&#160;CSE Student&#160;&#160;·&#160;&#160;AI Enthusiast
-  </text>
+  <text x="60" y="132" font-family="'Segoe UI', monospace" font-size="16" fill="#8b949e">Full Stack Developer &#160;&#183;&#160; CSE Student &#160;&#183;&#160; AI Enthusiast</text>
 
-  <text x="60" y="185" font-family="'Fira Code', monospace" font-size="14" fill="#2F9BFF">
-    building modern web experiences and exploring AI
-  </text>
-  <text x="382" y="185" font-family="'Fira Code', monospace" font-size="14" fill="#2F9BFF">
-    _
+  <text x="60" y="156" font-family="'Fira Code', monospace" font-size="13" fill="#2F9BFF">&#187; AI Prompt Engineering</text>
+
+  <text x="60" y="192" font-family="'Fira Code', monospace" font-size="13" fill="#8b949e">&gt; building modern web experiences and exploring AI</text>
+  <text x="500" y="192" font-family="'Fira Code', monospace" font-size="13" fill="#2F9BFF">_
     <animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;0.45;0.5;0.95;1" dur="1.8s" repeatCount="indefinite"/>
   </text>
+
+  <!-- flowing data line: one slow, subtle traveling particle -->
+  <line x1="60" y1="216" x2="840" y2="216" stroke="#1b2431" stroke-width="1"/>
+  <circle r="3" fill="url(#dotGlowDark)">
+    <animateMotion path="M60,216 L840,216" dur="6s" repeatCount="indefinite"/>
+  </circle>
 </svg>
