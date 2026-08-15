@@ -1,452 +1,250 @@
-<!--
-  ============================================================
-  Md Shahriar Fahim — GitHub Profile README (V2)
-  Repo must be named EXACTLY: mdshahriarfahim
-  Sections marked "UPDATE ME" / "[ADD ...]" are the ones you'll
-  touch most often. Stats/streak/langs/activity/snake are live
-  data and need no manual editing.
-  ============================================================
--->
-
 <div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:000000,40:1E1B4B,70:1D4ED8,100:22D3EE&text=MD%20SHAHRIAR%20FAHIM&fontSize=44&fontColor=F8FAFC&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20CSE%20Student%20%7C%20AI%20Enthusiast&descAlignY=62&descSize=16&stroke=22D3EE&strokeWidth=1" alt="banner"/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/banner/hero-banner-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="assets/banner/hero-banner-light.svg" />
-  <img src="assets/banner/hero-banner-dark.svg" alt="Md Shahriar Fahim — Full Stack Developer, CSE Student, AI Enthusiast" width="900" />
-</picture>
+<!-- background strip -->
+<img width="100%" height="6" src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" alt="background strip"/>
 
-<p>
-  <a href="https://github.com/mdshahriarfahim"><img src="https://img.shields.io/badge/GitHub-mdshahriarfahim-2F9BFF?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="GitHub"/></a>
-  <a href="https://www.linkedin.com/in/mdshahriarfahim/"><img src="https://img.shields.io/badge/LinkedIn-Connect-2F9BFF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" alt="LinkedIn"/></a>
-  <a href="https://www.facebook.com/msfahim34"><img src="https://img.shields.io/badge/Facebook-Follow-2F9BFF?style=for-the-badge&logo=facebook&logoColor=white&labelColor=0d1117" alt="Facebook"/></a>
-  <a href="mailto:msfahim71291@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-2F9BFF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" alt="Email"/></a>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=900&color=22D3EE&center=true&vCenter=true&width=780&height=45&lines=const+dev+%3D+%7B+name%3A+%22Shahriar+Fahim%22+%7D%3B;dev.stack+%3D+%5B%22React%22%2C+%22Node.js%22%2C+%22MongoDB%22%5D%3B;dev.mission+%3D+%22Build.+Learn.+Improve.%22%3B" alt="typing"/>
 
-<img src="https://komarev.com/ghpvc/?username=mdshahriarfahim&color=2f9bff&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile view counter" />
+<img src="https://komarev.com/ghpvc/?username=mdshahriarfahim&label=PROFILE%20VIEWS&color=22D3EE&style=for-the-badge" alt="visits"/>
+<img src="https://img.shields.io/github/followers/mdshahriarfahim?style=for-the-badge&color=1D4ED8&labelColor=000000&label=Followers&logo=github&logoColor=white" alt="followers"/>
+<img src="https://img.shields.io/badge/Available%20For-Freelance%20%26%20Internship-16A34A?style=for-the-badge&labelColor=000000" alt="available"/>
+<img src="https://img.shields.io/badge/Coffee%20Consumed-∞%20cups-F59E0B?style=for-the-badge&labelColor=000000" alt="coffee"/>
 
-<sub>📍 Axvion Tech</sub>
+<br/>
+
+<a href="#about">About</a> •
+<a href="#toolbox">Toolbox</a> •
+<a href="#journey">Journey</a> •
+<a href="#projects">Projects</a> •
+<a href="#action">In Action</a> •
+<a href="#stats">Stats</a> •
+<a href="#trophies">Trophies</a> •
+<a href="#extras">Extras</a> •
+<a href="#faq">FAQ</a> •
+<a href="#connect">Connect</a>
 
 </div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/separators/divider-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="assets/separators/divider-light.svg" />
-  <img src="assets/separators/divider-dark.svg" alt="" width="100%" height="6" />
-</picture>
+<img width="100%" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="divider" height="4"/>
 
-<!-- ============ PREMIUM NAVIGATION ============ -->
-<div align="center">
-
-| [`About`](#about-me) | [`Status`](#developer-status-dashboard) | [`Stack`](#tech-stack) | [`Arsenal`](#developer-arsenal) | [`Command Center`](#developer-command-center) | [`AI Lab`](#ai-lab) | [`Projects`](#featured-projects) | [`Journey`](#developer-journey) | [`Roadmap`](#2026-roadmap) | [`Analytics`](#github-analytics) | [`Achievements`](#achievements--certifications) | [`Contact`](#lets-build-something) |
-|---|---|---|---|---|---|---|---|---|---|---|---|
-
-</div>
-
-<br>
-
-## About Me
-
-I'm a CSE undergrad who spends most of his time turning ideas into working software — mostly full-stack web apps, increasingly with AI woven in. I build with **React, Node.js, and MongoDB** day-to-day, and I came up through C/C++ and Java, which is probably why I still care a lot about how things work under the hood, not just whether they run.
-
-Right now I'm deep in modern web application patterns and figuring out how to use AI usefully — not as a gimmick bolted onto a project, but as an actual part of how software gets built and how it behaves. Prompt engineering and AI automation are where a lot of my curiosity is going lately.
-
-Long term, I want to be the kind of full-stack developer who can take a product from a blank repo to something real people use — and increasingly, one who builds AI-native software rather than software with AI sprinkled on top.
-
-<div align="center">
-
-| Role | Focus | Philosophy |
-|---|---|---|
-| Full Stack Developer · CSE Student | Web + AI | Build. Break. Learn. Improve. Ship. |
-
-</div>
-
-<br>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/separators/divider-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="assets/separators/divider-light.svg" />
-  <img src="assets/separators/divider-dark.svg" alt="" width="100%" height="6" />
-</picture>
-
-## Developer Status Dashboard
-
-<!-- UPDATE ME: keep this current — no percentages, just plain honest state -->
-
-| | |
-|---|---|
-| 🎯 **Current Focus** | Full-stack web development with React, Node.js & MongoDB |
-| 🔵 **Currently Learning** | Advanced React patterns (context, performance, composition) and backend architecture fundamentals |
-| 🔨 **Building** | Full-stack web applications |
-| 🤖 **Exploring** | AI automation, prompt engineering, AI-powered interfaces |
-| 🚀 **2026 Goal** | Ship an AI-integrated full-stack application end-to-end |
-
-<br>
-
-## Tech Stack
+<h2 id="about">🧭 About Me</h2>
 
 <table>
-<tr><td valign="top" width="33%">
+<tr>
+<td width="62%" valign="top">
+
+```yaml
+name:      Md Shahriar Fahim
+role:      Full Stack Developer
+status:    CSE Student
+stack:     JavaScript · React · Node.js · MongoDB
+exploring: Artificial Intelligence · Automation
+mindset:   "Turn ideas into real-world projects, and keep improving."
+contact:   msfahim71291@gmail.com
+```
+
+I enjoy building modern, user-friendly web applications — mostly with **JavaScript, React, Node.js and MongoDB** — while exploring **AI and automation** on the side. I like taking an idea from a rough sketch to a working product, and I'm always picking up new tools along the way. 🚀
+
+- 🔭 Currently building full-stack apps with the **MERN stack**
+- 🌱 Currently exploring **AI & automation**
+- 🎯 2026 goal: ship a production-grade full-stack product
+- 💬 Ask me about **React, Node.js, JavaScript**
+- ⚡ Fun fact: I enjoy turning ideas into working products
+
+</td>
+<td width="38%" align="center" valign="middle">
+
+<img width="95%" src="https://raw.githubusercontent.com/DenverCoder1/readme-typing-svg/main/img/pixel-tv-static.gif" alt="tech visual"/>
+
+</td>
+</tr>
+</table>
+
+<h2 id="toolbox">🧰 Toolbox</h2>
 
 **Frontend**
-<br><img src="https://skillicons.dev/icons?i=html,css,js,react" alt="HTML, CSS, JavaScript, React"/>
+<br/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,redux,vite&theme=dark&perline=7"/>
 
-</td><td valign="top" width="33%">
+**Backend & Database**
+<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,python,graphql&theme=dark&perline=7"/>
 
-**Backend**
-<br><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js"/>
-
-</td><td valign="top" width="33%">
-
-**Database**
-<br><img src="https://skillicons.dev/icons?i=mongodb,sqlite" alt="MongoDB, SQLite"/>
-
-</td></tr>
-<tr><td valign="top" width="33%">
-
-**Programming Languages**
-<br><img src="https://skillicons.dev/icons?i=c,cpp,java,js" alt="C, C++, Java, JavaScript"/>
-
-</td><td valign="top" width="33%">
-
-**AI & Automation**
-<br><img src="https://skillicons.dev/icons?i=openai" alt="AI tooling"/>
-<br><sub>Prompt engineering · AI-assisted development workflows</sub>
-
-</td><td valign="top" width="33%">
-
-**Development Environment**
-<br><img src="https://skillicons.dev/icons?i=vscode,git,github" alt="VS Code, Git, GitHub"/>
-
-</td></tr>
-</table>
-
-<sub>Icons served by <a href="https://skillicons.dev">skillicons.dev</a> (static, fails gracefully to a broken-image icon only — never breaks layout).</sub>
-
-<br>
-
-## Developer Arsenal
-
-*Same real tools as above, organized by how I actually use them day-to-day.*
-
-<table>
-<tr><td width="50%" valign="top">
-
-**Code**
-VS Code — primary editor for everything
-
-**Version Control**
-Git + GitHub — daily workflow, branching, PRs
-
-</td><td width="50%" valign="top">
-
-**Database**
-MongoDB (app data) · SQLite (lightweight/local projects)
-
-**AI**
-Prompt engineering for planning, debugging, and AI-assisted coding workflows
-
-</td></tr>
-</table>
-
-<br>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/separators/divider-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="assets/separators/divider-light.svg" />
-  <img src="assets/separators/divider-dark.svg" alt="" width="100%" height="6" />
-</picture>
-
-## Developer Command Center
-
-┌─────────────────────────────────────────────┐
-│ SYSTEM STATUS MISSION                       │
-├─────────────────────────────────────────────┤
-│ Frontend Building Ship                      │
-│ Backend Building Ship                       │
-│ Database Stable Maintain                    │
-│ AI Exploring Learn → Build                  │
-│ Tools Stable Maintain                       │
-└─────────────────────────────────────────────┘
+**Tools & Platforms**
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,vercel,docker,linux&theme=dark&perline=8"/>
 
 <details>
-<summary>💻 Terminal</summary>
+<summary><b>📋 Full Skill Matrix (click to expand)</b></summary>
+<br/>
 
-```bash
-$ whoami
-Md Shahriar Fahim
-
-$ current-focus
-Full-stack web development (React · Node.js · MongoDB)
-
-$ tech-stack
-HTML · CSS · JS · React · Node.js · MongoDB · C/C++ · Java · SQLite
-
-$ mission
-Build useful software
-
-$ roadmap
-learning → advanced-react → backend-architecture → ai-integration
-```
+| Category | Skills | Comfort Level |
+|---|---|---|
+| Languages | JavaScript, Python | ⭐⭐⭐⭐☆ |
+| Frontend | HTML, CSS, React, Tailwind | ⭐⭐⭐⭐☆ |
+| Backend | Node.js, Express | ⭐⭐⭐☆☆ |
+| Database | MongoDB, Firebase | ⭐⭐⭐☆☆ |
+| AI / Automation | Exploring | ⭐⭐☆☆☆ |
+| DevOps | Docker, Linux basics | ⭐⭐☆☆☆ |
+| Tools | Git, GitHub, Postman, VS Code | ⭐⭐⭐⭐☆ |
 
 </details>
 
-<br>
+<h2 id="journey">🛤️ My Journey</h2>
 
-## AI Lab
+```text
+2023  ●───  Started learning HTML, CSS & JavaScript
+2024  ●───  Built first static websites & small JS projects
+2025  ●───  Started learning React, dived into MERN stack
+2026  ●───  Exploring Node.js, MongoDB & AI/automation  ← You are here
+Next  ○───  Ship production-grade full-stack products
+```
 
-**Experimenting with:**
-- → AI automation and agentic workflows
-- → AI APIs integrated into full-stack apps
-- → AI-powered interfaces and assistants
-- → Prompt engineering as an actual engineering discipline
+<h2 id="projects">🚀 Featured Projects</h2>
 
-<sub>This is active exploration, not a claim of shipped production AI systems.</sub>
+<!--
+  নিচের REPO-NAME-1, REPO-NAME-2, REPO-NAME-3 জায়গায় তোমার আসল repo-র নাম বসাও।
+-->
 
-<br>
+<p align="center">
+<a href="https://github.com/mdshahriarfahim/REPO-NAME-1">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=mdshahriarfahim&repo=REPO-NAME-1&theme=tokyonight&hide_border=true&bg_color=000000&title_color=22D3EE&icon_color=1D4ED8&text_color=CBD5E1" alt="project 1"/>
+</a>
+<a href="https://github.com/mdshahriarfahim/REPO-NAME-2">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=mdshahriarfahim&repo=REPO-NAME-2&theme=tokyonight&hide_border=true&bg_color=000000&title_color=22D3EE&icon_color=1D4ED8&text_color=CBD5E1" alt="project 2"/>
+</a>
+<br/>
+<a href="https://github.com/mdshahriarfahim/REPO-NAME-3">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=mdshahriarfahim&repo=REPO-NAME-3&theme=tokyonight&hide_border=true&bg_color=000000&title_color=22D3EE&icon_color=1D4ED8&text_color=CBD5E1" alt="project 3"/>
+</a>
+</p>
 
+<h2 id="action">🎥 In Action</h2>
+
+<div align="center">
+<img width="65%" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/assets/hero-gif.gif" alt="dev workspace animation"/>
+<br/>
+<sub>Building, breaking, and rebuilding — the daily loop.</sub>
+</div>
+
+<h2>📈 Currently Leveling Up</h2>
+
+<img src="https://img.shields.io/badge/React-███████░░░%2070%25-22D3EE?style=for-the-badge&labelColor=000000"/>
+<img src="https://img.shields.io/badge/Node.js-██████░░░░%2060%25-16A34A?style=for-the-badge&labelColor=000000"/>
+<img src="https://img.shields.io/badge/MongoDB-██████░░░░%2060%25-16A34A?style=for-the-badge&labelColor=000000"/>
+<br/>
+<img src="https://img.shields.io/badge/AI%20%2F%20Automation-████░░░░░░%2040%25-F59E0B?style=for-the-badge&labelColor=000000"/>
+<img src="https://img.shields.io/badge/System%20Design-███░░░░░░░%2030%25-F59E0B?style=for-the-badge&labelColor=000000"/>
+
+<h2>💡 Dev Quote of the Day</h2>
+
+<div align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="dev quote"/>
+</div>
+
+<h2 id="stats">📊 By The Numbers</h2>
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mdshahriarfahim&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=000000&title_color=22D3EE&icon_color=1D4ED8&text_color=CBD5E1&ring_color=1D4ED8" alt="stats"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdshahriarfahim&layout=compact&theme=tokyonight&hide_border=true&bg_color=000000&title_color=22D3EE&text_color=CBD5E1" alt="languages"/>
+
+<img width="72%" src="https://streak-stats.demolab.com?user=mdshahriarfahim&theme=tokyonight&hide_border=true&background=000000&ring=1D4ED8&fire=F59E0B&currStreakLabel=22D3EE&sideLabels=CBD5E1&dates=64748B&currStreakNum=F8FAFC&sideNums=F8FAFC" alt="streak"/>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=mdshahriarfahim&bg_color=000000&color=CBD5E1&line=1D4ED8&point=F8FAFC&area=true&area_color=1E1B4B&hide_border=true&custom_title=Activity%20Timeline" alt="activity graph"/>
+
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mdshahriarfahim&theme=github_dark" alt="profile summary"/>
+
+</div>
+
+<h2 id="trophies">🏆 Trophy Cabinet</h2>
+
+<div align="center">
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=mdshahriarfahim&theme=algolia&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7" alt="trophies"/>
+</div>
+
+<h2>🐍 Daily Grind (Contribution Snake)</h2>
+
+<div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/separators/divider-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="assets/separators/divider-light.svg" />
-  <img src="assets/separators/divider-dark.svg" alt="" width="100%" height="6" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mdshahriarfahim/mdshahriarfahim/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mdshahriarfahim/mdshahriarfahim/output/github-contribution-grid-snake.svg"/>
+  <img width="100%" alt="snake" src="https://raw.githubusercontent.com/mdshahriarfahim/mdshahriarfahim/output/github-contribution-grid-snake.svg"/>
 </picture>
+</div>
 
-## Featured Projects
+> এটা চালু করতে `.github/workflows/snake.yml` লাগবে — আগে দেওয়া হয়েছিল, না থাকলে বলো, আবার পাঠিয়ে দেব।
 
-**Status legend:** 🟢 Completed &nbsp;·&nbsp; 🟡 In Progress &nbsp;·&nbsp; 🔵 Learning &nbsp;·&nbsp; ⚪ Planned
-**Demo legend:** 🎬 Watch Demo &nbsp;·&nbsp; 🧪 Live Demo &nbsp;·&nbsp; ⏳ Not yet deployed
-
-<!-- UPDATE ME: swap placeholder images for real screenshots/GIFs (same <img> tag works for either format), fill in [ADD KEY FEATURES], add real demo links only once they exist -->
+<h2 id="extras">🎁 Extras</h2>
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
-<img src="assets/projects/local-eats.svg" alt="Local Eats screenshot placeholder" width="100%"/>
-
-### Local Eats
-🟡 In Progress
-
-Full-stack food discovery / ordering application.
-
-**Stack:** React · Node.js · MongoDB
-**Key Features:** [ADD KEY FEATURES]
-
-[Repository](https://github.com/mdshahriarfahim/local-eats) · ⏳ Not yet deployed
+**📚 Learning Resources**
+- freeCodeCamp
+- MDN Web Docs
+- Official React & Node docs
 
 </td>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
-<img src="assets/projects/inventory.svg" alt="Inventory Management System screenshot placeholder" width="100%"/>
-
-### Inventory Management System
-🟢 Completed
-
-Inventory tracking system with persistent storage.
-
-**Stack:** Java · SQLite
-**Key Features:** [ADD KEY FEATURES]
-
-[Repository](https://github.com/mdshahriarfahim/inventory-management-system)
+**🎧 Coding Mood**
+<br/>
+<img src="https://img.shields.io/badge/Now%20Playing-Lo--fi%20Beats-1DB954?style=flat-square&logo=spotify&logoColor=white&labelColor=000000"/>
 
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
-<img src="assets/projects/elevator-sim.svg" alt="Elevator Simulation screenshot placeholder" width="100%"/>
-
-### Elevator Simulation
-🟢 Completed
-
-Simulation of multi-elevator scheduling and request handling logic.
-
-**Stack:** Java
-**Key Features:** [ADD KEY FEATURES]
-
-[Repository](https://github.com/mdshahriarfahim/elevator-simulation)
-
-</td>
-<td width="50%" valign="top">
-
-<img src="assets/projects/snake-tictactoe.svg" alt="Snake and Tic-Tac-Toe screenshot placeholder" width="100%"/>
-
-### Snake / Tic-Tac-Toe
-🟢 Completed
-
-Classic game logic implementations — problem solving fundamentals.
-
-**Stack:** C++ / JavaScript
-**Key Features:** [ADD KEY FEATURES]
-
-[Repository](https://github.com/mdshahriarfahim/snake-tictactoe)
+**☕ Support Me**
+<br/>
+<a href="https://www.buymeacoffee.com/"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=flat-square&logo=buy-me-a-coffee&logoColor=black"/></a>
 
 </td>
 </tr>
 </table>
 
-<br>
+<h2>🗺️ Roadmap</h2>
 
-## Developer Journey
+| ✅ Done | 🔄 In Progress | 🎯 Next |
+|---|---|---|
+| HTML, CSS, JS fundamentals | Advanced React patterns | Full production-grade MERN app |
+| React basics | Building backend APIs with Node.js | Contributing to open source |
+| Git & GitHub workflow | MongoDB data modeling | Exploring AI-powered features |
 
-```mermaid
-flowchart TD
-    A[C / C++] --> B[Java / SQLite]
-    B --> C[HTML / CSS]
-    C --> D[JavaScript]
-    D --> E[React]
-    E --> F[Node.js]
-    F --> G[MongoDB]
-    G --> H[Full Stack Development]
-    H --> I[AI Integration]
-
-    style A fill:#0d1117,stroke:#2F9BFF,color:#ffffff
-    style B fill:#0d1117,stroke:#2F9BFF,color:#ffffff
-    style C fill:#0d1117,stroke:#2F9BFF,color:#ffffff
-    style D fill:#0d1117,stroke:#2F9BFF,color:#ffffff
-    style E fill:#0d1117,stroke:#2F9BFF,color:#ffffff
-    style F fill:#0d1117,stroke:#2F9BFF,color:#ffffff
-    style G fill:#0d1117,stroke:#2F9BFF,color:#ffffff
-    style H fill:#0d1117,stroke:#2F9BFF,color:#ffffff
-    style I fill:#2F9BFF,stroke:#2F9BFF,color:#0d1117
-```
-
-<br>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/separators/divider-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="assets/separators/divider-light.svg" />
-  <img src="assets/separators/divider-dark.svg" alt="" width="100%" height="6" />
-</picture>
-
-## 2026 Roadmap
-
-<!-- UPDATE ME: move items between statuses as they actually happen — never mark something Completed that isn't -->
-
-| Status | Focus |
-|---|---|
-| 🟢 Completed | HTML, CSS, JavaScript, C/C++, Java, SQLite fundamentals |
-| 🟢 Completed | React fundamentals, Node.js, MongoDB |
-| 🟡 In Progress | Advanced React patterns, backend architecture, system design |
-| ⚪ Planned | AI-integrated full-stack applications, authentication & deployment at scale |
-| ⚪ Planned | Contributing to open source, production-grade AI tooling |
-
-**Direction, visualized:**
-
-```mermaid
-flowchart LR
-    L[Learning] --> B[Building]
-    B --> P[Projects]
-    P --> FS[Full Stack]
-    FS --> AI[AI Exploration]
-    AI --> OS[Open Source]
-    OS --> PG[Professional Growth]
-
-    style L fill:#0d1117,stroke:#2F9BFF,color:#ffffff
-    style B fill:#0d1117,stroke:#2F9BFF,color:#ffffff
-    style P fill:#0d1117,stroke:#2F9BFF,color:#ffffff
-    style FS fill:#0d1117,stroke:#2F9BFF,color:#ffffff
-    style AI fill:#2F9BFF,stroke:#2F9BFF,color:#0d1117
-    style OS fill:#0d1117,stroke:#2F9BFF,color:#ffffff
-    style PG fill:#0d1117,stroke:#2F9BFF,color:#ffffff
-```
-
-<br>
-
-## GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=mdshahriarfahim&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=2F9BFF&icon_color=2F9BFF" alt="GitHub Stats" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mdshahriarfahim&theme=github-dark-blue&hide_border=true&background=0d1117" alt="GitHub Streak" height="165"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdshahriarfahim&layout=donut&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=2F9BFF" alt="Top Languages" height="180"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mdshahriarfahim&theme=react-dark&hide_border=true&bg_color=0d1117&color=2F9BFF&line=2F9BFF&point=ffffff" alt="Contribution Activity Graph" width="100%"/>
-
-<sub>Live data from <a href="https://github.com/anuraghazra/github-readme-stats">github-readme-stats</a> and <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">github-readme-activity-graph</a>. If a card doesn't render (rare rate-limit), view stats directly at <a href="https://github.com/mdshahriarfahim">github.com/mdshahriarfahim</a>.</sub>
-
-</div>
-
-<br>
-
-## Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mdshahriarfahim/mdshahriarfahim/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mdshahriarfahim/mdshahriarfahim/output/github-contribution-grid-snake.svg" />
-  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/mdshahriarfahim/mdshahriarfahim/output/github-contribution-grid-snake.svg" />
-</picture>
-
-<sub>Generated automatically by GitHub Actions (see <code>.github/workflows/snake.yml</code>). Empty/broken until the first workflow run completes.</sub>
-
-</div>
-
-<br>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/separators/divider-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="assets/separators/divider-light.svg" />
-  <img src="assets/separators/divider-dark.svg" alt="" width="100%" height="6" />
-</picture>
-
-## Achievements & Certifications
-
-<!-- UPDATE ME: replace every [ADD ...] row below with a real certificate. Delete unused rows. Do not leave fabricated entries. -->
-
-| Certificate / Achievement | Issuer | Date | Credential |
-|---|---|---|---|
-| [ADD CERTIFICATE NAME] | [ADD ISSUER] | [ADD DATE] | [ADD CREDENTIAL LINK] |
-| [ADD CERTIFICATE NAME] | [ADD ISSUER] | [ADD DATE] | [ADD CREDENTIAL LINK] |
-| [ADD CERTIFICATE NAME] | [ADD ISSUER] | [ADD DATE] | [ADD CREDENTIAL LINK] |
-
-<br>
-
-## Philosophy
-
-<div align="center">
-
-**BUILD. BREAK. LEARN. IMPROVE. SHIP. REPEAT.**
-
-*"Code is not just about making things work. It's about making ideas useful."*
-
-</div>
-
-<br>
-
-## Let's Build Something
-
-Open to conversations around:
-- Web Development & Full Stack Projects
-- AI-powered applications
-- Collaboration on open-source work
-
-Reach out — [Email](mailto:msfahim71291@gmail.com) · [LinkedIn](https://www.linkedin.com/in/mdshahriarfahim/)
+<h2 id="faq">❓ FAQ</h2>
 
 <details>
-<summary>👀 Curious?</summary>
-<br>
-Still reading this far down? I like that. It usually means you actually check the details before shipping — that's the trait I try hardest to build in myself too.
-<br><br>
-
-```js
-while (alive) {
-  keepBuilding();
-}
-```
-
+<summary><b>What am I currently focused on?</b></summary>
+<br/>
+Building full-stack projects with the MERN stack and slowly exploring AI/automation tools to add smarter features to my apps.
 </details>
 
-<br>
+<details>
+<summary><b>What kind of work am I open to?</b></summary>
+<br/>
+Freelance web development, internships, and collaborative open-source projects.
+</details>
 
----
+<details>
+<summary><b>How can you reach me?</b></summary>
+<br/>
+Email (msfahim71291@gmail.com) or LinkedIn — links are below in the Connect section.
+</details>
+
+<h2 id="connect">🤝 Let's Connect</h2>
 
 <div align="center">
 
-Thanks for visiting my profile.
+<a href="https://www.linkedin.com/in/mdshahriarfahim/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000"/></a>
+<a href="https://www.facebook.com/msfahim34" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=000000"/></a>
+<a href="mailto:msfahim71291@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000"/></a>
 
-[GitHub](https://github.com/mdshahriarfahim) · [LinkedIn](https://www.linkedin.com/in/mdshahriarfahim/) · [Email](mailto:msfahim71291@gmail.com)
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&pause=900&color=64748B&center=true&vCenter=true&width=650&height=30&lines=Thanks+for+stopping+by+%E2%80%94+let's+build+something+great." alt="closing"/>
 
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:22D3EE,40:1D4ED8,70:1E1B4B,100:000000&section=footer" alt="footer"/>
