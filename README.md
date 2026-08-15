@@ -1,15 +1,51 @@
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:000000,40:1E1B4B,70:1D4ED8,100:22D3EE&text=MD%20SHAHRIAR%20FAHIM&fontSize=44&fontColor=F8FAFC&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20CSE%20Student%20%7C%20AI%20Enthusiast&descAlignY=62&descSize=16&stroke=22D3EE&strokeWidth=1" alt="banner"/>
 
-<!-- background strip -->
-<img width="100%" height="6" src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" alt="background strip"/>
+<!-- ===== FULLY CUSTOM SVG BANNER (hand-built, not a third-party generator) ===== -->
+<svg width="100%" height="220" viewBox="0 0 900 220" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#020617"/>
+      <stop offset="55%" stop-color="#0F172A"/>
+      <stop offset="100%" stop-color="#1D4ED8"/>
+    </linearGradient>
+    <linearGradient id="textGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#F8FAFC"/>
+      <stop offset="100%" stop-color="#7DD3FC"/>
+    </linearGradient>
+  </defs>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=900&color=22D3EE&center=true&vCenter=true&width=780&height=45&lines=const+dev+%3D+%7B+name%3A+%22Shahriar+Fahim%22+%7D%3B;dev.stack+%3D+%5B%22React%22%2C+%22Node.js%22%2C+%22MongoDB%22%5D%3B;dev.mission+%3D+%22Build.+Learn.+Improve.%22%3B" alt="typing"/>
+  <rect width="900" height="220" fill="url(#bgGrad)" rx="14"/>
 
-<img src="https://komarev.com/ghpvc/?username=mdshahriarfahim&label=PROFILE%20VIEWS&color=22D3EE&style=for-the-badge" alt="visits"/>
-<img src="https://img.shields.io/github/followers/mdshahriarfahim?style=for-the-badge&color=1D4ED8&labelColor=000000&label=Followers&logo=github&logoColor=white" alt="followers"/>
-<img src="https://img.shields.io/badge/Available%20For-Freelance%20%26%20Internship-16A34A?style=for-the-badge&labelColor=000000" alt="available"/>
-<img src="https://img.shields.io/badge/Coffee%20Consumed-∞%20cups-F59E0B?style=for-the-badge&labelColor=000000" alt="coffee"/>
+  <!-- decorative code-dot grid -->
+  <g fill="#1D4ED8" opacity="0.35">
+    <circle cx="40" cy="30" r="3"/><circle cx="60" cy="30" r="3"/><circle cx="80" cy="30" r="3"/>
+    <circle cx="820" cy="190" r="3"/><circle cx="840" cy="190" r="3"/><circle cx="860" cy="190" r="3"/>
+    <circle cx="40" cy="190" r="3"/><circle cx="860" cy="30" r="3"/>
+  </g>
+
+  <!-- angle-bracket motif -->
+  <text x="45" y="120" font-family="Consolas, monospace" font-size="60" fill="#1D4ED8" opacity="0.5">&lt;/&gt;</text>
+
+  <!-- name -->
+  <text x="450" y="105" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="42" font-weight="700" fill="url(#textGrad)">
+    MD SHAHRIAR FAHIM
+  </text>
+
+  <!-- role -->
+  <text x="450" y="140" text-anchor="middle" font-family="Consolas, monospace" font-size="16" fill="#93C5FD" letter-spacing="1.5">
+    FULL STACK DEVELOPER &#8226; CSE STUDENT &#8226; AI ENTHUSIAST
+  </text>
+
+  <!-- underline accent -->
+  <rect x="330" y="155" width="240" height="3" rx="1.5" fill="#38BDF8"/>
+</svg>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=900&color=38BDF8&center=true&vCenter=true&width=780&height=45&lines=Building+modern%2C+user-friendly+web+applications;MERN+Stack+%7C+JavaScript+%7C+React+%7C+Node.js;Turning+ideas+into+real-world+projects+%F0%9F%9A%80" alt="typing"/>
+
+<img src="https://komarev.com/ghpvc/?username=mdshahriarfahim&label=PROFILE%20VIEWS&color=38BDF8&style=for-the-badge" alt="visits"/>
+<img src="https://img.shields.io/github/followers/mdshahriarfahim?style=for-the-badge&color=1D4ED8&labelColor=0F172A&label=Followers&logo=github&logoColor=white" alt="followers"/>
+<img src="https://img.shields.io/badge/Available%20For-Freelance%20%26%20Internship-16A34A?style=for-the-badge&labelColor=0F172A" alt="available"/>
+<img src="https://img.shields.io/badge/Location-Bogra%2C%20Bangladesh-F59E0B?style=for-the-badge&labelColor=0F172A" alt="location"/>
 
 <br/>
 
@@ -21,12 +57,11 @@
 <a href="#stats">Stats</a> •
 <a href="#trophies">Trophies</a> •
 <a href="#extras">Extras</a> •
-<a href="#faq">FAQ</a> •
 <a href="#connect">Connect</a>
 
 </div>
 
-<img width="100%" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="divider" height="4"/>
+<img width="100%" src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" alt="divider" height="4"/>
 
 <h2 id="about">🧭 About Me</h2>
 
@@ -55,7 +90,7 @@ I enjoy building modern, user-friendly web applications — mostly with **JavaSc
 </td>
 <td width="38%" align="center" valign="middle">
 
-<img width="95%" src="https://raw.githubusercontent.com/DenverCoder1/readme-typing-svg/main/img/pixel-tv-static.gif" alt="tech visual"/>
+<img width="95%" src="https://user-images.githubusercontent.com/74038190/212750999-42ff8a64-dad8-4772-9648-849968543991.gif" alt="coding in peace"/>
 
 </td>
 </tr>
@@ -109,33 +144,33 @@ Next  ○───  Ship production-grade full-stack products
 
 <p align="center">
 <a href="https://github.com/mdshahriarfahim/REPO-NAME-1">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=mdshahriarfahim&repo=REPO-NAME-1&theme=tokyonight&hide_border=true&bg_color=000000&title_color=22D3EE&icon_color=1D4ED8&text_color=CBD5E1" alt="project 1"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=mdshahriarfahim&repo=REPO-NAME-1&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=38BDF8&icon_color=1D4ED8&text_color=CBD5E1" alt="project 1"/>
 </a>
 <a href="https://github.com/mdshahriarfahim/REPO-NAME-2">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=mdshahriarfahim&repo=REPO-NAME-2&theme=tokyonight&hide_border=true&bg_color=000000&title_color=22D3EE&icon_color=1D4ED8&text_color=CBD5E1" alt="project 2"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=mdshahriarfahim&repo=REPO-NAME-2&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=38BDF8&icon_color=1D4ED8&text_color=CBD5E1" alt="project 2"/>
 </a>
 <br/>
 <a href="https://github.com/mdshahriarfahim/REPO-NAME-3">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=mdshahriarfahim&repo=REPO-NAME-3&theme=tokyonight&hide_border=true&bg_color=000000&title_color=22D3EE&icon_color=1D4ED8&text_color=CBD5E1" alt="project 3"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=mdshahriarfahim&repo=REPO-NAME-3&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=38BDF8&icon_color=1D4ED8&text_color=CBD5E1" alt="project 3"/>
 </a>
 </p>
 
-<h2 id="action">🎥 In Action</h2>
+<h2 id="action">🎬 In Action</h2>
 
 <div align="center">
-<img width="65%" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/assets/hero-gif.gif" alt="dev workspace animation"/>
+<img width="60%" src="https://user-images.githubusercontent.com/74038190/213760677-e45ca5f7-d1aa-4c2c-91e0-573819287304.gif" alt="coding session"/>
 <br/>
 <sub>Building, breaking, and rebuilding — the daily loop.</sub>
 </div>
 
 <h2>📈 Currently Leveling Up</h2>
 
-<img src="https://img.shields.io/badge/React-███████░░░%2070%25-22D3EE?style=for-the-badge&labelColor=000000"/>
-<img src="https://img.shields.io/badge/Node.js-██████░░░░%2060%25-16A34A?style=for-the-badge&labelColor=000000"/>
-<img src="https://img.shields.io/badge/MongoDB-██████░░░░%2060%25-16A34A?style=for-the-badge&labelColor=000000"/>
+<img src="https://img.shields.io/badge/React-███████░░░%2070%25-38BDF8?style=for-the-badge&labelColor=0F172A"/>
+<img src="https://img.shields.io/badge/Node.js-██████░░░░%2060%25-16A34A?style=for-the-badge&labelColor=0F172A"/>
+<img src="https://img.shields.io/badge/MongoDB-██████░░░░%2060%25-16A34A?style=for-the-badge&labelColor=0F172A"/>
 <br/>
-<img src="https://img.shields.io/badge/AI%20%2F%20Automation-████░░░░░░%2040%25-F59E0B?style=for-the-badge&labelColor=000000"/>
-<img src="https://img.shields.io/badge/System%20Design-███░░░░░░░%2030%25-F59E0B?style=for-the-badge&labelColor=000000"/>
+<img src="https://img.shields.io/badge/AI%20%2F%20Automation-████░░░░░░%2040%25-F59E0B?style=for-the-badge&labelColor=0F172A"/>
+<img src="https://img.shields.io/badge/System%20Design-███░░░░░░░%2030%25-F59E0B?style=for-the-badge&labelColor=0F172A"/>
 
 <h2>💡 Dev Quote of the Day</h2>
 
@@ -147,12 +182,12 @@ Next  ○───  Ship production-grade full-stack products
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mdshahriarfahim&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=000000&title_color=22D3EE&icon_color=1D4ED8&text_color=CBD5E1&ring_color=1D4ED8" alt="stats"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdshahriarfahim&layout=compact&theme=tokyonight&hide_border=true&bg_color=000000&title_color=22D3EE&text_color=CBD5E1" alt="languages"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mdshahriarfahim&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=38BDF8&icon_color=1D4ED8&text_color=CBD5E1&ring_color=1D4ED8" alt="stats"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdshahriarfahim&layout=compact&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=38BDF8&text_color=CBD5E1" alt="languages"/>
 
-<img width="72%" src="https://streak-stats.demolab.com?user=mdshahriarfahim&theme=tokyonight&hide_border=true&background=000000&ring=1D4ED8&fire=F59E0B&currStreakLabel=22D3EE&sideLabels=CBD5E1&dates=64748B&currStreakNum=F8FAFC&sideNums=F8FAFC" alt="streak"/>
+<img width="72%" src="https://streak-stats.demolab.com?user=mdshahriarfahim&theme=tokyonight&hide_border=true&background=0F172A&ring=1D4ED8&fire=F59E0B&currStreakLabel=38BDF8&sideLabels=CBD5E1&dates=64748B&currStreakNum=F8FAFC&sideNums=F8FAFC" alt="streak"/>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=mdshahriarfahim&bg_color=000000&color=CBD5E1&line=1D4ED8&point=F8FAFC&area=true&area_color=1E1B4B&hide_border=true&custom_title=Activity%20Timeline" alt="activity graph"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=mdshahriarfahim&bg_color=0F172A&color=CBD5E1&line=1D4ED8&point=F8FAFC&area=true&area_color=1E3A8A&hide_border=true&custom_title=Activity%20Timeline" alt="activity graph"/>
 
 <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mdshahriarfahim&theme=github_dark" alt="profile summary"/>
 
@@ -190,16 +225,16 @@ Next  ○───  Ship production-grade full-stack products
 </td>
 <td width="33%" valign="top">
 
-**🎧 Coding Mood**
+**📄 Resume**
 <br/>
-<img src="https://img.shields.io/badge/Now%20Playing-Lo--fi%20Beats-1DB954?style=flat-square&logo=spotify&logoColor=white&labelColor=000000"/>
+<sub>Coming soon — will link here once ready.</sub>
 
 </td>
 <td width="33%" valign="top">
 
-**☕ Support Me**
+**🌐 Portfolio**
 <br/>
-<a href="https://www.buymeacoffee.com/"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=flat-square&logo=buy-me-a-coffee&logoColor=black"/></a>
+<sub>Coming soon — will link here once ready.</sub>
 
 </td>
 </tr>
@@ -237,14 +272,12 @@ Email (msfahim71291@gmail.com) or LinkedIn — links are below in the Connect se
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/mdshahriarfahim/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000"/></a>
-<a href="https://www.facebook.com/msfahim34" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=000000"/></a>
-<a href="mailto:msfahim71291@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000"/></a>
+<a href="https://www.linkedin.com/in/mdshahriarfahim/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0F172A"/></a>
+<a href="https://www.facebook.com/msfahim34" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=0F172A"/></a>
+<a href="mailto:msfahim71291@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0F172A"/></a>
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&pause=900&color=64748B&center=true&vCenter=true&width=650&height=30&lines=Thanks+for+stopping+by+%E2%80%94+let's+build+something+great." alt="closing"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&pause=900&color=64748B&center=true&vCenter=true&width=650&height=30&lines=Thanks+for+stopping+by+%E2%80%94+let's+build+something+great." alt="closing"/>
 
 </div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:22D3EE,40:1D4ED8,70:1E1B4B,100:000000&section=footer" alt="footer"/>
