@@ -90,7 +90,7 @@ I enjoy building modern, user-friendly web applications — mostly with **JavaSc
 </td>
 <td width="38%" align="center" valign="middle">
 
-<img width="95%" src="https://user-images.githubusercontent.com/74038190/212750999-42ff8a64-dad8-4772-9648-849968543991.gif" alt="coding in peace"/>
+<img width="95%" src="https://user-images.githubusercontent.com/74038190/213760677-e45ca5f7-d1aa-4c2c-91e0-573819287304.gif" alt="she codes animation"/>
 
 </td>
 </tr>
@@ -158,7 +158,7 @@ Next  ○───  Ship production-grade full-stack products
 <h2 id="action">🎬 In Action</h2>
 
 <div align="center">
-<img width="60%" src="https://user-images.githubusercontent.com/74038190/213760677-e45ca5f7-d1aa-4c2c-91e0-573819287304.gif" alt="coding session"/>
+<img width="70%" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="animated coding session"/>
 <br/>
 <sub>Building, breaking, and rebuilding — the daily loop.</sub>
 </div>
