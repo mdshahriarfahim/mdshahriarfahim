@@ -83,7 +83,7 @@ I build modern, user-friendly web apps — mostly with **JavaScript, React, Node
 </td>
 <td width="38%" align="center" valign="middle">
 
-<img width="95%" src="https://user-images.githubusercontent.com/74038190/213760677-e45ca5f7-d1aa-4c2c-91e0-573819287304.gif" alt="coding animation"/>
+<img width="95%" src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.gif" alt="man coding animation"/>
 
 </td>
 </tr>
@@ -180,11 +180,12 @@ An AI workspace for saving, versioning and running prompt templates against mult
 
 <h2>📈 Currently Leveling Up</h2>
 
-<img src="https://img.shields.io/badge/React-███████░░░%2070%25-38BDF8?style=for-the-badge&labelColor=0F172A"/>
-<img src="https://img.shields.io/badge/Node.js-██████░░░░%2060%25-16A34A?style=for-the-badge&labelColor=0F172A"/>
-<img src="https://img.shields.io/badge/MongoDB-██████░░░░%2060%25-16A34A?style=for-the-badge&labelColor=0F172A"/>
-<br/>
-<img src="https://img.shields.io/badge/AI%20%2F%20Automation-████░░░░░░%2040%25-F59E0B?style=for-the-badge&labelColor=0F172A"/>
+<table>
+<tr><td width="18%"><b>React</b></td><td width="62%"><img src="https://progress-bar.xyz/70/?title=&width=400&color=38bdf8&suffix=%25&scale=100"/></td><td>70%</td></tr>
+<tr><td><b>Node.js</b></td><td><img src="https://progress-bar.xyz/60/?title=&width=400&color=16a34a&suffix=%25&scale=100"/></td><td>60%</td></tr>
+<tr><td><b>MongoDB</b></td><td><img src="https://progress-bar.xyz/60/?title=&width=400&color=16a34a&suffix=%25&scale=100"/></td><td>60%</td></tr>
+<tr><td><b>AI / Automation</b></td><td><img src="https://progress-bar.xyz/40/?title=&width=400&color=f59e0b&suffix=%25&scale=100"/></td><td>40%</td></tr>
+</table>
 
 <h2>💡 Dev Quote of the Day</h2>
 
@@ -209,6 +210,14 @@ An AI workspace for saving, versioning and running prompt templates against mult
 <img width="72%" src="https://streak-stats.demolab.com?user=mdshahriarfahim&theme=tokyonight&hide_border=true&background=0F172A&ring=1D4ED8&fire=F59E0B&currStreakLabel=38BDF8&sideLabels=CBD5E1&dates=64748B&currStreakNum=F8FAFC&sideNums=F8FAFC" alt="streak"/>
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=mdshahriarfahim&bg_color=0F172A&color=CBD5E1&line=1D4ED8&point=F8FAFC&area=true&area_color=1E3A8A&hide_border=true&custom_title=Activity%20Timeline" alt="activity graph"/>
+
+<br/><br/>
+
+<img width="32%" src="https://github-readme-stats.vercel.app/api/wakatime?username=mdshahriarfahim&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=38BDF8&text_color=CBD5E1&layout=compact" alt="wakatime — connect a WakaTime account to populate this chart"/>
+<img width="32%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdshahriarfahim&layout=donut-vertical&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=38BDF8&text_color=CBD5E1" alt="language donut chart"/>
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mdshahriarfahim&theme=tokyonight&utcOffset=6" alt="productive time bar chart"/>
+
+<sub>Language donut and productive-time chart update automatically from live GitHub activity. WakaTime panel needs a <a href="https://wakatime.com/">WakaTime</a> account linked to this username to show real coding-time data.</sub>
 
 </div>
 
