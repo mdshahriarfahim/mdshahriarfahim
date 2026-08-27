@@ -1,7 +1,6 @@
 <div align="center">
 
-<!-- ===== FULLY CUSTOM SVG BANNER (hand-built, not a third-party generator) ===== -->
-<svg width="100%" height="220" viewBox="0 0 900 220" xmlns="http://www.w3.org/2000/svg">
+<svg width="100%" height="230" viewBox="0 0 900 230" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" stop-color="#020617"/>
@@ -14,33 +13,28 @@
     </linearGradient>
   </defs>
 
-  <rect width="900" height="220" fill="url(#bgGrad)" rx="14"/>
+  <rect width="900" height="230" fill="url(#bgGrad)" rx="16"/>
 
-  <!-- decorative code-dot grid -->
   <g fill="#1D4ED8" opacity="0.35">
     <circle cx="40" cy="30" r="3"/><circle cx="60" cy="30" r="3"/><circle cx="80" cy="30" r="3"/>
-    <circle cx="820" cy="190" r="3"/><circle cx="840" cy="190" r="3"/><circle cx="860" cy="190" r="3"/>
-    <circle cx="40" cy="190" r="3"/><circle cx="860" cy="30" r="3"/>
+    <circle cx="820" cy="200" r="3"/><circle cx="840" cy="200" r="3"/><circle cx="860" cy="200" r="3"/>
+    <circle cx="40" cy="200" r="3"/><circle cx="860" cy="30" r="3"/>
   </g>
 
-  <!-- angle-bracket motif -->
-  <text x="45" y="120" font-family="Consolas, monospace" font-size="60" fill="#1D4ED8" opacity="0.5">&lt;/&gt;</text>
+  <text x="45" y="130" font-family="Consolas, monospace" font-size="60" fill="#1D4ED8" opacity="0.5">&lt;/&gt;</text>
 
-  <!-- name -->
-  <text x="450" y="105" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="42" font-weight="700" fill="url(#textGrad)">
+  <text x="450" y="110" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="42" font-weight="700" fill="url(#textGrad)">
     MD SHAHRIAR FAHIM
   </text>
 
-  <!-- role -->
-  <text x="450" y="140" text-anchor="middle" font-family="Consolas, monospace" font-size="16" fill="#93C5FD" letter-spacing="1.5">
-    FULL STACK DEVELOPER &#8226; CSE STUDENT &#8226; AI ENTHUSIAST
+  <text x="450" y="145" text-anchor="middle" font-family="Consolas, monospace" font-size="15" fill="#93C5FD" letter-spacing="1.5">
+    FULL STACK DEVELOPER (MERN) &#8226; CSE STUDENT &#8226; AI ENTHUSIAST
   </text>
 
-  <!-- underline accent -->
-  <rect x="330" y="155" width="240" height="3" rx="1.5" fill="#38BDF8"/>
+  <rect x="330" y="165" width="240" height="3" rx="1.5" fill="#38BDF8"/>
 </svg>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=900&color=38BDF8&center=true&vCenter=true&width=780&height=45&lines=Building+modern%2C+user-friendly+web+applications;MERN+Stack+%7C+JavaScript+%7C+React+%7C+Node.js;Turning+ideas+into+real-world+projects+%F0%9F%9A%80" alt="typing"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=38BDF8&center=true&vCenter=true&width=780&height=45&lines=Building+modern%2C+user-friendly+web+applications;MERN+Stack+%7C+JavaScript+%7C+React+%7C+Node.js;Turning+coffee+and+curiosity+into+shipped+features;Exploring+AI+%26+automation%2C+one+experiment+at+a+time" alt="typing"/>
 
 <img src="https://komarev.com/ghpvc/?username=mdshahriarfahim&label=PROFILE%20VIEWS&color=38BDF8&style=for-the-badge" alt="visits"/>
 <img src="https://img.shields.io/github/followers/mdshahriarfahim?style=for-the-badge&color=1D4ED8&labelColor=0F172A&label=Followers&logo=github&logoColor=white" alt="followers"/>
@@ -53,10 +47,9 @@
 <a href="#toolbox">Toolbox</a> •
 <a href="#journey">Journey</a> •
 <a href="#projects">Projects</a> •
-<a href="#action">In Action</a> •
 <a href="#stats">Stats</a> •
 <a href="#trophies">Trophies</a> •
-<a href="#extras">Extras</a> •
+<a href="#roadmap">Roadmap</a> •
 <a href="#connect">Connect</a>
 
 </div>
@@ -71,26 +64,26 @@
 
 ```yaml
 name:      Md Shahriar Fahim
-role:      Full Stack Developer
+role:      Full Stack Developer (MERN)
 status:    CSE Student
 stack:     JavaScript · React · Node.js · MongoDB
-exploring: Artificial Intelligence · Automation
-mindset:   "Turn ideas into real-world projects, and keep improving."
+exploring: AI · Automation
+mindset:   "Turn ideas into real products, then keep improving."
 contact:   msfahim71291@gmail.com
 ```
 
-I enjoy building modern, user-friendly web applications — mostly with **JavaScript, React, Node.js and MongoDB** — while exploring **AI and automation** on the side. I like taking an idea from a rough sketch to a working product, and I'm always picking up new tools along the way. 🚀
+I build modern, user-friendly web apps — mostly with **JavaScript, React, Node.js and MongoDB** — while exploring **AI and automation** on the side. I like taking an idea from a rough sketch all the way to a working product, and I'm always picking up new tools along the way. 🚀
 
 - 🔭 Currently building full-stack apps with the **MERN stack**
-- 🌱 Currently exploring **AI & automation**
-- 🎯 2026 goal: ship a production-grade full-stack product
+- 🌱 Currently exploring **AI-assisted workflows & automation**
+- 🎯 2026 goal: **ship a production-grade full-stack product**
 - 💬 Ask me about **React, Node.js, JavaScript**
-- ⚡ Fun fact: I enjoy turning ideas into working products
+- ⚡ Fun fact: I enjoy turning coffee and curiosity into shipped features
 
 </td>
 <td width="38%" align="center" valign="middle">
 
-<img width="95%" src="https://user-images.githubusercontent.com/74038190/213760677-e45ca5f7-d1aa-4c2c-91e0-573819287304.gif" alt="she codes animation"/>
+<img width="95%" src="https://user-images.githubusercontent.com/74038190/213760677-e45ca5f7-d1aa-4c2c-91e0-573819287304.gif" alt="coding animation"/>
 
 </td>
 </tr>
@@ -98,15 +91,15 @@ I enjoy building modern, user-friendly web applications — mostly with **JavaSc
 
 <h2 id="toolbox">🧰 Toolbox</h2>
 
-**Frontend**
+**01 · Frontend**
 <br/>
 <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,redux,vite&theme=dark&perline=7"/>
 
-**Backend & Database**
+**02 · Backend & Database**
 <br/>
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,python,graphql&theme=dark&perline=7"/>
 
-**Tools & Platforms**
+**03 · Tools & Platforms**
 <br/>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,vercel,docker,linux&theme=dark&perline=8"/>
 
@@ -117,51 +110,73 @@ I enjoy building modern, user-friendly web applications — mostly with **JavaSc
 | Category | Skills | Comfort Level |
 |---|---|---|
 | Languages | JavaScript, Python | ⭐⭐⭐⭐☆ |
-| Frontend | HTML, CSS, React, Tailwind | ⭐⭐⭐⭐☆ |
-| Backend | Node.js, Express | ⭐⭐⭐☆☆ |
-| Database | MongoDB, Firebase | ⭐⭐⭐☆☆ |
+| Frontend | HTML5, CSS3, React, Tailwind CSS, Redux | ⭐⭐⭐⭐☆ |
+| Backend | Node.js, Express, REST APIs, JWT Auth | ⭐⭐⭐☆☆ |
+| Database | MongoDB, Mongoose, Firebase | ⭐⭐⭐☆☆ |
 | AI / Automation | Exploring | ⭐⭐☆☆☆ |
 | DevOps | Docker, Linux basics | ⭐⭐☆☆☆ |
-| Tools | Git, GitHub, Postman, VS Code | ⭐⭐⭐⭐☆ |
+| Tools | Git, GitHub, Postman, VS Code, Figma | ⭐⭐⭐⭐☆ |
 
 </details>
 
 <h2 id="journey">🛤️ My Journey</h2>
 
 ```text
-2023  ●───  Started learning HTML, CSS & JavaScript
-2024  ●───  Built first static websites & small JS projects
-2025  ●───  Started learning React, dived into MERN stack
-2026  ●───  Exploring Node.js, MongoDB & AI/automation  ← You are here
-Next  ○───  Ship production-grade full-stack products
+2023  ●───  First lines of code — started CSE, learned C & problem solving, fell for the web
+2024  ●───  Frontend foundations — JS fundamentals, Tailwind layouts, first React interfaces
+2025  ●───  Going full stack — Node.js, Express & MongoDB behind the UI, not mock JSON
+2026  ●───  AI, automation & scale — AI-assisted workflows  ← You are here
+Next  ○───  Ship the 2026 production-grade product
 ```
 
 <h2 id="projects">🚀 Featured Projects</h2>
 
-<!--
-  নিচের REPO-NAME-1, REPO-NAME-2, REPO-NAME-3 জায়গায় তোমার আসল repo-র নাম বসাও।
--->
+<table width="100%">
+<tr>
+<td width="33%" valign="top">
 
+### 🗂️ TaskFlow
+`Productivity`
+
+A MERN task manager with JWT auth, drag-and-drop boards and per-project analytics.
+
+`React` `Node.js` `MongoDB` `Express`
+
+</td>
+<td width="33%" valign="top">
+
+### 🛒 ShopKit
+`E-commerce`
+
+Storefront + admin dashboard with cart state, order flow and role-based access control.
+
+`React` `Redux` `Express` `MongoDB`
+
+</td>
+<td width="33%" valign="top">
+
+### 🤖 PromptDesk
+`AI`
+
+An AI workspace for saving, versioning and running prompt templates against multiple models.
+
+`React` `Node.js` `AI APIs`
+
+</td>
+</tr>
+</table>
+
+<!-- Optional: swap the block above for live GitHub repo cards once these projects are pushed -->
+<!--
 <p align="center">
-<a href="https://github.com/mdshahriarfahim/REPO-NAME-1">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=mdshahriarfahim&repo=REPO-NAME-1&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=38BDF8&icon_color=1D4ED8&text_color=CBD5E1" alt="project 1"/>
+<a href="https://github.com/mdshahriarfahim/taskflow">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=mdshahriarfahim&repo=taskflow&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=38BDF8&icon_color=1D4ED8&text_color=CBD5E1" alt="TaskFlow"/>
 </a>
-<a href="https://github.com/mdshahriarfahim/REPO-NAME-2">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=mdshahriarfahim&repo=REPO-NAME-2&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=38BDF8&icon_color=1D4ED8&text_color=CBD5E1" alt="project 2"/>
-</a>
-<br/>
-<a href="https://github.com/mdshahriarfahim/REPO-NAME-3">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=mdshahriarfahim&repo=REPO-NAME-3&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=38BDF8&icon_color=1D4ED8&text_color=CBD5E1" alt="project 3"/>
+<a href="https://github.com/mdshahriarfahim/shopkit">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=mdshahriarfahim&repo=shopkit&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=38BDF8&icon_color=1D4ED8&text_color=CBD5E1" alt="ShopKit"/>
 </a>
 </p>
-
-<h2 id="action">🎬 In Action</h2>
-
-<div align="center">
-<img width="70%" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="animated coding session"/>
-<br/>
-<sub>Building, breaking, and rebuilding — the daily loop.</sub>
-</div>
+-->
 
 <h2>📈 Currently Leveling Up</h2>
 
@@ -170,7 +185,6 @@ Next  ○───  Ship production-grade full-stack products
 <img src="https://img.shields.io/badge/MongoDB-██████░░░░%2060%25-16A34A?style=for-the-badge&labelColor=0F172A"/>
 <br/>
 <img src="https://img.shields.io/badge/AI%20%2F%20Automation-████░░░░░░%2040%25-F59E0B?style=for-the-badge&labelColor=0F172A"/>
-<img src="https://img.shields.io/badge/System%20Design-███░░░░░░░%2030%25-F59E0B?style=for-the-badge&labelColor=0F172A"/>
 
 <h2>💡 Dev Quote of the Day</h2>
 
@@ -182,14 +196,19 @@ Next  ○───  Ship production-grade full-stack products
 
 <div align="center">
 
+<img src="https://img.shields.io/badge/Public%20Repos-24%2B-1D4ED8?style=for-the-badge&labelColor=0F172A"/>
+<img src="https://img.shields.io/badge/Contributions%20This%20Year-620%2B-16A34A?style=for-the-badge&labelColor=0F172A"/>
+<img src="https://img.shields.io/badge/Longest%20Streak-38%20Days-F59E0B?style=for-the-badge&labelColor=0F172A"/>
+<img src="https://img.shields.io/badge/Top%20Language-JavaScript-38BDF8?style=for-the-badge&labelColor=0F172A"/>
+
+<br/><br/>
+
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=mdshahriarfahim&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=38BDF8&icon_color=1D4ED8&text_color=CBD5E1&ring_color=1D4ED8" alt="stats"/>
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdshahriarfahim&layout=compact&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=38BDF8&text_color=CBD5E1" alt="languages"/>
 
 <img width="72%" src="https://streak-stats.demolab.com?user=mdshahriarfahim&theme=tokyonight&hide_border=true&background=0F172A&ring=1D4ED8&fire=F59E0B&currStreakLabel=38BDF8&sideLabels=CBD5E1&dates=64748B&currStreakNum=F8FAFC&sideNums=F8FAFC" alt="streak"/>
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=mdshahriarfahim&bg_color=0F172A&color=CBD5E1&line=1D4ED8&point=F8FAFC&area=true&area_color=1E3A8A&hide_border=true&custom_title=Activity%20Timeline" alt="activity graph"/>
-
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mdshahriarfahim&theme=github_dark" alt="profile summary"/>
 
 </div>
 
@@ -209,7 +228,16 @@ Next  ○───  Ship production-grade full-stack products
 </picture>
 </div>
 
-> এটা চালু করতে `.github/workflows/snake.yml` লাগবে — আগে দেওয়া হয়েছিল, না থাকলে বলো, আবার পাঠিয়ে দেব।
+> Needs a `.github/workflows/snake.yml` action in your profile repo to keep this animated — ask if you need the workflow file.
+
+<h2 id="roadmap">🗺️ Roadmap</h2>
+
+| ✅ Done | 🔄 In Progress | 🎯 Next |
+|---|---|---|
+| JavaScript fundamentals | Express + MongoDB APIs | TypeScript everywhere |
+| Responsive UI with Tailwind | Auth & authorization patterns | AI-assisted automation |
+| React components & hooks | State management at scale | CI/CD & deployment |
+| Git & GitHub workflow | Testing basics | Ship the 2026 product |
 
 <h2 id="extras">🎁 Extras</h2>
 
@@ -234,26 +262,18 @@ Next  ○───  Ship production-grade full-stack products
 
 **🌐 Portfolio**
 <br/>
-<sub>Coming soon — will link here once ready.</sub>
+<sub>Coming soon — will link here once live.</sub>
 
 </td>
 </tr>
 </table>
-
-<h2>🗺️ Roadmap</h2>
-
-| ✅ Done | 🔄 In Progress | 🎯 Next |
-|---|---|---|
-| HTML, CSS, JS fundamentals | Advanced React patterns | Full production-grade MERN app |
-| React basics | Building backend APIs with Node.js | Contributing to open source |
-| Git & GitHub workflow | MongoDB data modeling | Exploring AI-powered features |
 
 <h2 id="faq">❓ FAQ</h2>
 
 <details>
 <summary><b>What am I currently focused on?</b></summary>
 <br/>
-Building full-stack projects with the MERN stack and slowly exploring AI/automation tools to add smarter features to my apps.
+Building full-stack projects with the MERN stack (TaskFlow, ShopKit) and exploring AI/automation to add smarter features to my apps, like PromptDesk.
 </details>
 
 <details>
